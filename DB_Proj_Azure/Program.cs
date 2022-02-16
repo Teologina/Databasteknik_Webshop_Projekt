@@ -1,4 +1,8 @@
-﻿using System;
+//Following participants have contributed to this projects finalization;
+//Alexandra Salén Sammueang / Alexandra_salen@hotmail.com
+//Teodor Fredriksson / teo95@hotmail.se
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
